@@ -1,4 +1,4 @@
-sorun olursa discord: Morpdev#0001
+sorun olursa discord: morp#1468
 ---
 configuration.json doldurun <3
 ----
